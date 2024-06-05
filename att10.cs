@@ -22,7 +22,6 @@ namespace lista10
 
                 Console.WriteLine($"Número total de linhas: {totalLinhas}");
 
-                // Exibe os nomes dos estudantes
                 Console.WriteLine("Nomes dos estudantes:");
                 for(int i = 0; i < nomes.Length; i++) 
                 {
